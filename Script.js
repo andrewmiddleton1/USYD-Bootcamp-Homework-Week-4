@@ -243,7 +243,7 @@ document.body.appendChild(clearhighscorebtn);               // Append <button> t
 clearhighscorebtn.addEventListener ("click", function() {
   window.localStorage.clear();
   console.log(localStorage);
-  $(document.body.highestscorer).remove();
+  //$(document.body.highestscorer).remove();
 });
 
 }
