@@ -1,0 +1,53 @@
+  /* <div id="main"></div>
+    <Div id="Start"></Div>
+    <Div id="Questions">Questions</Div>
+    <Div id="Results">Result</Div>
+    <h1 class="time"></h1>
+    <Div id="count"></Div> */
+
+h1 {
+  font-size: 25px;
+}
+
+body {
+    background: lightblue
+}
+
+
+#main {
+     
+    color: #333;
+    background: #2a035c;
+  }
+  
+  header {
+    background: #333;
+  }
+  
+  #Questions {
+    /* padding: 20px;
+    margin: 20;
+    margin-bottom: 20px;
+    margin-right: 600px;
+    font-size: 20px; */
+    color: rgb(26, 10, 10);
+    background: lightsalmon;
+    text-align: left;
+        
+  }
+
+#count {
+    
+    /* margin-right: 600px;
+    font-size: 20px; */
+    background: rgb(123, 204, 123)
+
+}
+
+.time {
+    /* margin-right: 600px;
+    font-size: 20px; */
+    background: yellow
+}
+
+  
