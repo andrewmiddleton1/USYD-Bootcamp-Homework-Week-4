@@ -13,3 +13,5 @@ The quiz has six major functions:
 6.	InputHighScore. This function compared the score with the value in local storage. If the user’s score is greater than the value in local storage, the user is alerted to their score being the highest and asked to input their initials. I have also included a button to clear local storage if the user wishes. 
 
 I have used a bootstrap container to ensure that the app is dynamic and can be used on the full range of devices. The rest of the styling was through a separate CSS sheet, mainly just to add colour to the app to differentiate between the divisions. 
+
+https://andrewmiddleton1.github.io/USYD-Bootcamp-Homework-Week-4/
